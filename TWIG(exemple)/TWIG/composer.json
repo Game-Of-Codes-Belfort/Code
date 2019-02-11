@@ -1,0 +1,12 @@
+{
+    "name": "stagiaire/twig",
+    "authors": [
+        {
+            "name": "JauneLoke",
+            "email": "jaune.loke@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}

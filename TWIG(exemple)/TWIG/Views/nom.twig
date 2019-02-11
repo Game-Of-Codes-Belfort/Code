@@ -1,0 +1,11 @@
+{% extends 'base.twig' %}
+
+{% block mainContent %}
+
+   {% for eleve in listeEleve %}
+      <p>Son nom est : {{ eleve.nom }}</p>
+   {% endfor %}
+
+   <a href="?page=home">Et sur cette page pour avoir les noms et les prénoms</a>
+
+{% endblock mainContent %}

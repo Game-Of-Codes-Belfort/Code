@@ -1,0 +1,11 @@
+{% extends 'base.twig' %}
+
+{% block mainContent %}
+
+   {% for eleve in listeEleve %}
+      <p>Il s'appelle : {{ eleve.nom }} {{ eleve.prenom }}</p>
+   {% endfor %}
+
+   <a href="?page=nom">Et sur cette page pour avoir seulement les noms (c'est super utile hein)</a>
+
+{% endblock mainContent %}
