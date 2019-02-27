@@ -1,0 +1,7 @@
+{
+    "utilisateurs": [
+        {"prenom":"Jean", "age":22, "sexe":"h"},
+        {"prenom":"Marie", "age":30, "sexe":"f"},
+        {"prenom":"David", "age":27, "sexe":"h"}
+    ]
+}
