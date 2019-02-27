@@ -53,6 +53,3 @@ make:auth
 
     https://www.grafikart.fr/tutoriels/doctrine-decouverte-1066
     Arret a 27min
-
-    AdministrateurGym
-    JaimelaGym67423936
