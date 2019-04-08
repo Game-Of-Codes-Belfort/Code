@@ -1,0 +1,7 @@
+@media screen and (min-width: 769px) {
+    .callBtn {
+    pointer-events: none;
+    }
+    } 
+
+    /* On cible ici les largeurs d'écran inférieures ou égales à l'Ipad avec 1px de marge. Pointer-events permet de "désactiver" le a href pour les largeurs d'écran supérieures, le curseur pointer n'apparaît plus, si l'utilisateur clique quand même sur le bouton, rien ne se passe. */
