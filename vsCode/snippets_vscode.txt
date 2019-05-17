@@ -18,12 +18,12 @@
     
     "PHP opener": {
         "scope": "html,twig,php",
-        "prefix": "?",
+        "prefix": "php",
         "body": [
             "<?php $1 ?>"
         ],
         "description": "opens and closes php."
-    },
+},
     "Translate -50%":{
         "scope": "css, scss",
         "prefix": "transhalf",
